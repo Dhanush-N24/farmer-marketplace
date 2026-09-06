@@ -1,103 +1,76 @@
 # 🌾 Harvest & Co. — AI-Powered Farmer Marketplace
 
-Harvest & Co. is a full-stack agricultural marketplace that directly connects farmers with customers.
+Harvest & Co. is a full-stack agriculture marketplace that connects farmers directly with customers while providing AI-powered agricultural assistance.
 
-The platform allows farmers to list and manage agricultural products, while customers can browse fresh produce, add products to a cart, place orders, and track their orders.
-
-The project also integrates an **AI-powered agricultural assistant** using **LangChain, Retrieval-Augmented Generation (RAG), semantic search, and ChromaDB** to provide agriculture-related guidance from a curated knowledge base.
+The platform combines a modern React frontend, FastAPI backend, JWT-based authentication, product and order management, shopping cart functionality, and an AI assistant built using LangChain, Retrieval-Augmented Generation (RAG), vector search, semantic search, and an agriculture-focused knowledge base.
 
 ---
 
 ## 🚀 Project Overview
 
-Traditional agricultural marketplaces often focus only on buying and selling products.
+Traditional agricultural marketplaces often separate farmers from customers and provide limited access to reliable farming information.
 
-Harvest & Co. combines:
+Harvest & Co. addresses this by combining:
 
-- 🧑‍🌾 Farmer-to-customer marketplace
-- 🛒 Shopping cart and checkout
-- 📦 Order management
-- 🔐 JWT-based authentication
-- 👨‍🌾 Farmer dashboard
-- 🤖 AI agricultural assistant
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🔎 Semantic search
-- 🧠 LangChain
-- 🗄️ ChromaDB vector database
-- ❓ Agriculture FAQ chatbot
-- 🌱 Agricultural recommendation features
+- 👨‍🌾 Farmer-to-customer marketplace
+- 🛒 Online shopping and cart management
+- 📦 Order placement and order tracking
+- 🔐 Role-based authentication
+- 🤖 AI-powered agriculture assistant
+- 📚 RAG-based agricultural knowledge retrieval
+- ❓ AI-powered FAQ chatbot
+- 🔎 Semantic search over agricultural documents
+- 🌱 Crop and farming recommendations
 
-The goal is to create a single platform where users can **purchase agricultural products and access intelligent farming information**.
+The goal is to create a single platform where farmers can list their produce, customers can purchase directly, and users can obtain agriculture-related information through an AI assistant.
 
 ---
 
 # ✨ Key Features
 
-## 👤 User Authentication
+## 👨‍🌾 Farmer Features
 
-The platform supports two user roles:
+- Farmer registration and login
+- Dedicated farmer dashboard
+- Add agricultural products
+- Specify:
+  - Product name
+  - Description
+  - Category
+  - Price
+  - Available quantity
+- View listed products
+- Delete products
+- Automatic stock management after orders
 
-### Customer
-Customers can:
+---
 
-- Register
-- Login
-- Browse products
-- View product details
+## 🛒 Customer Features
+
+- Customer registration and login
+- Browse marketplace products
+- View individual product details
 - Add products to cart
-- Increase/decrease quantities
+- Increase/decrease cart quantity
+- Automatic cart total calculation
 - Checkout
 - Place orders
 - View previous orders
-
-### Farmer
-
-Farmers can:
-
-- Register as a farmer
-- Login securely
-- Access the Farmer Dashboard
-- Add agricultural products
-- View their listed products
-- Delete products
-- Manage available stock
-
-Authentication is implemented using **JWT (JSON Web Tokens)**.
+- Track order status
 
 ---
 
-# 🛍️ Marketplace
+## 🔐 Authentication & Authorization
 
-Customers can browse agricultural products listed by farmers.
+The backend implements authentication using:
 
-Each product contains information such as:
+- JWT (JSON Web Tokens)
+- Password hashing
+- Role-based access control
+- Protected API endpoints
 
-- Product name
-- Description
-- Category
-- Price
-- Available quantity
-- Unit
-- Organic status
-- Farmer association
-
-The marketplace retrieves products from the FastAPI backend through REST APIs.
-
----
-
-# 🧑‍🌾 Farmer Dashboard
-
-The Farmer Dashboard provides farmers with a dedicated interface for managing their products.
-
-Farmers can:
+Two primary user roles are supported:
 
 ```text
-Login
-   ↓
-Farmer Dashboard
-   ↓
-Add Product
-   ↓
-Product Stored in Database
-   ↓
-Product Appears in Marketplace
+Farmer
+Customer
