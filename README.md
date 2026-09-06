@@ -1,76 +1,82 @@
 # 🌾 Harvest & Co. — AI-Powered Farmer Marketplace
 
-Harvest & Co. is a full-stack agriculture marketplace that connects farmers directly with customers while providing AI-powered agricultural assistance.
+Harvest & Co. is a full-stack agriculture marketplace that directly connects farmers with customers while providing AI-powered agricultural assistance.
 
-The platform combines a modern React frontend, FastAPI backend, JWT-based authentication, product and order management, shopping cart functionality, and an AI assistant built using LangChain, Retrieval-Augmented Generation (RAG), vector search, semantic search, and an agriculture-focused knowledge base.
-
----
-
-## 🚀 Project Overview
-
-Traditional agricultural marketplaces often separate farmers from customers and provide limited access to reliable farming information.
-
-Harvest & Co. addresses this by combining:
-
-- 👨‍🌾 Farmer-to-customer marketplace
-- 🛒 Online shopping and cart management
-- 📦 Order placement and order tracking
-- 🔐 Role-based authentication
-- 🤖 AI-powered agriculture assistant
-- 📚 RAG-based agricultural knowledge retrieval
-- ❓ AI-powered FAQ chatbot
-- 🔎 Semantic search over agricultural documents
-- 🌱 Crop and farming recommendations
-
-The goal is to create a single platform where farmers can list their produce, customers can purchase directly, and users can obtain agriculture-related information through an AI assistant.
+The project combines a React frontend, FastAPI backend, SQLAlchemy database layer, JWT authentication, role-based access control, shopping cart and order management, and an AI system built using LangChain, Retrieval-Augmented Generation (RAG), ChromaDB, embeddings, and semantic search.
 
 ---
 
-# ✨ Key Features
+## 🚀 Features
 
-## 👨‍🌾 Farmer Features
+### 👨‍🌾 Farmer
 
 - Farmer registration and login
 - Dedicated farmer dashboard
 - Add agricultural products
-- Specify:
-  - Product name
-  - Description
-  - Category
-  - Price
-  - Available quantity
+- Set product price and available quantity
 - View listed products
 - Delete products
-- Automatic stock management after orders
+- Automatic stock reduction when products are purchased
 
----
-
-## 🛒 Customer Features
+### 🛒 Customer
 
 - Customer registration and login
-- Browse marketplace products
-- View individual product details
+- Browse agricultural products
+- View product details
 - Add products to cart
-- Increase/decrease cart quantity
-- Automatic cart total calculation
-- Checkout
-- Place orders
-- View previous orders
+- Increase/decrease quantities
+- Checkout and place orders
+- View order history
 - Track order status
+
+### 🔐 Authentication
+
+- JWT-based authentication
+- Password hashing
+- Role-based authorization
+- Separate Farmer and Customer experiences
+- Protected API endpoints
 
 ---
 
-## 🔐 Authentication & Authorization
+# 🤖 AI Agriculture Assistant
 
-The backend implements authentication using:
+A major component of Harvest & Co. is its AI-powered agriculture assistant.
 
-- JWT (JSON Web Tokens)
-- Password hashing
-- Role-based access control
-- Protected API endpoints
+The AI system uses:
 
-Two primary user roles are supported:
+- **LangChain**
+- **Retrieval-Augmented Generation (RAG)**
+- **Embeddings**
+- **ChromaDB**
+- **Semantic Search**
+- **Agriculture Knowledge Base**
+- **FAQ Knowledge Base**
+- **Agriculture Recommendation System**
+
+The assistant is designed to answer agriculture-related questions using information retrieved from the project's agricultural knowledge base.
+
+---
+
+# 🧠 RAG Architecture
+
+The project implements Retrieval-Augmented Generation to ground AI responses in agricultural documents.
 
 ```text
-Farmer
-Customer
+Agriculture Documents
+        ↓
+Document Processing
+        ↓
+Text Chunking
+        ↓
+Embeddings
+        ↓
+ChromaDB Vector Database
+        ↓
+Semantic Similarity Search
+        ↓
+Relevant Context
+        ↓
+LangChain / LLM
+        ↓
+AI Response
