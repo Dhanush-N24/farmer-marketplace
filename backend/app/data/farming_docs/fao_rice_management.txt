@@ -1,0 +1,173 @@
+Plant Production and Protection Division: How to manage rice sustainably
+english
+FAO Home
+Plant Production and Protection Division
+Thematic sitemap
+Information Resources
+in Keywords
+Contacts
+News and Events
+Information Resources
+Contact Us
+NSP - How to manage rice sustainably
+How to manage rice sustainably?
+Genetic improvement
+Agronomic practices to sustainably increase rice production
+Dealing with environmental constraints and pest occurrence
+Integrated crop management
+Genetic improvement
+Yield potential of both
+japonica
+indica
+rice, especially of irrigated lowland rice, has greatly increased thanks to genetic improvement. Before the Meiji period
+japonica
+rice yields in
+Japan
+were low. The discovery of the variety Shinriki that had a short stem and produced outstanding yield when applied with high rates of fish-based fertilizer had increased rice yield and production. Consequently Shinriki was then used in the development of highyielding japonica rice varieties in
+Japan
+and later in other countries where
+japonica
+rice is widely cultivated.
+Similarly, in tropical climate areas, where
+indica
+rice is dominant, rice yields on farmers’ fields before 1950 rarely exceeded 2.5 tons/ha. In the 1950s the International Rice Commission (IRC) implemented an international
+indica-japonica
+hybridization project, which produced and released for cultivation some improved rice varieties such as ADT 27 in Tamil Nadu, India and Mashuri in Malaysia. But yield potential of rice in tropical and subtropical climates substantially increased only after the release of IR8 by the International Rice Research in 1966. Over the years, IR8, which contains the
+gene, has been intensively and extensively used as a parent in rice varietal improvement programmes in many countries. It is estimated that high-yielding semi-dwarf varieties occupy more than 90% of the harvested area from irrigated lowland rice ecosystems. The yield potential of current high-yielding varieties grown in the tropics is around 10 tonnes/ha during the dry season (high radiation) and 6.5 tonnes/ha during the wet season. Since the development of IR8, however, only marginal yield increases have occurred in high-yielding rice varieties. The development of New Plant Type (or Super rice) and C4 rice with higher yield potential is still in progress and has only limited results.
+In 1975, in
+China
+, the application of the
+cytoplasmic male sterile
+in wild rice led to the development of hybrid rice and this further increased the rice yield potential by at least 15% or more. The area planted to hybrid rice in
+China
+increased practically zero in 1976, to more than 50% of the country’s total harvested rice area in 1993. However, Chinese national rice yield has stagnated since 1998, suggesting the limited gains in yield potential of hybrid rice in
+China
+. Before 1990, there was no hybrid rice commercial cultivation in countries outside
+China
+. However, the recommendation made by the 17th Session of the International Rice Commission in 1990 in Brazil led to the commercial hybrid rice production in about 3.5 million hectares in 2008 in countries outside China.
+The International Rice Research Institute incorporated the
+Sub 1A
+gene into high-yielding varieties has recently developed a number of improved varieties with good tolerance to submergence for rice production in rainfed lowland ecosystems. Similarly in rainfed upland rice ecosystems most farmers still planted low-yielding traditional rice varieties, which have better drought tolerance and compete better with weeds. Recently the West Africa Rice Development Association (WARDA) or
+African Rice Center
+has developed series of NERICA varieties from crosses between
+O. sativa
+O. glaberrima
+for production in upland areas of tropical
+Africa
+. Under low-input upland ecosystems in West Africa NERICA rice varieties yielded higher than the existing rice varieties.
+Agronomic practices to sustainably increase rice production
+Water and land resources for rice production are being threatened by the competing needs of the cultivation of other food, feed and energy crops and the expansion of industrialization, urbanization. In addition, the migration from rural to urban areas in
+Asia
+Africa
+has decreased substantially the labour resources, especially male labour in agriculture. In addition to the adoption of high-yielding and early maturing rice varieties, the application of combinations of existing technologies would save time, land and water for intensification of rice production in the future:
+The System of Rice Intensification
+The System of Rice Intensification (
+) was developed in
+Madagascar
+in 1986 and has recently been popularized in other countries in sub-Saharan
+Africa
+Asia
+Latin America
+recommendations (see
+sri.ciifad.cornell.edu
+) include:
+Transplanting of very young seedlings (8 to 10 days after germination), 1 seedling/hill at wide spacing up to 50 cm x 50 cm;
+Frequent weeding using rotary weeders before canopy closes;
+Application of large amounts of compost or organic fertilizers; and
+Draining extra water to keeping rice field at saturated condition (not flooded).
+Rice yields, which were above 15 tonnes/ha, were frequently reported by the
+promoters.
+However, results of field experiments conducted by the International Rice Research Institute and its member countries showed no yield advantage from
+. An international investigation is necessary to clarify the different results before appropriate strategy could be developed for supporting rice farmers.
+Minimum and/or zero tillage:
+The common benefits of conventional land preparation in rice production are weed control, incorporation of fertilizers, increase in soil porosity and aeration, mixing the soil to bring up leached deposits and giving the soil a good condition to increase adsorption of nutrient. However, conventional land preparation consumes time and energy. Moreover, in lowland ecosystems land preparation consumes about 30% of the total amount water used in rice production, while in upland ecosystems it exposes soils to water and wind erosion. The search for substitute function of tillage operations has led to minimum and/or zero tillage practices. The main benefits of minimum and/or zero tillage practices are conservation of organic matter and soil moisture, reduction in water and wind erosion, reduction in fuels and animal and human energy, and time and water required for land preparation, and possible provision of favourable environment for biological activity.
+The adoption of minimum and zero tillage in rainfed upland rice production in
+Asia
+and Sub- Saharan Africa is still limited. Similar observation was true among rainfed irrigated lowland rice farmers. However, the adoption of minimum and zero tillage among rainfed upland rice farmers in
+Brazil
+who have the tradition of using large tractors to prepare land has increased in the recent past. The main constraint of the application of minimum or zero tillage in rice production is weed competition. Application of herbicides is currently used to suppress early weed growth in minimum or zero tillage in rice production. The development of alternative weed management approach would contribute to the adoption of minimum or zero tillage in rice production.
+Land levelling using laser beam:
+In rainfed and irrigated lowland rice ecosystems, it is essential to have land levelled for good water management and also for weed control and the efficiency of nitrogen use. Farmers, especially in
+Asia
+, have the tradition to do soil puddling for land levelling. However, soil puddling requires substantial water and time. Land levelling using laser beam was developed for land levelling and its adoption is increasing worldwide, thanks to the advance in farm mechanization.
+Direct seeding in lowland rice production:
+Farmers in
+Asia
+Africa
+have the tradition of transplanting lowland rice. Transplanting uses less seed but requires more labour, time and water. It normally requires about 120 man-hours to transplant a hectare. Direct seeding on dry soils has been used by lowland rice farmers in Asian countries such as
+Indonesia
+Philippines
+who grow two rice crops within a year in rainfed areas with long rainy season. The system is called
+gogo-rancha
+Indonesia
+sabog-tanim
+in the
+Philippines
+. In
+, irrigated lowland rice farmers use direct seeding on dry soils. Direct seeding onto flooded and saturated soils has been used by farmers in
+South America
+Europe
+. The adoption of direct seeding onto flooded and saturated soils has increased in
+Asia
+due to labour shortage in rural areas. Direct seeding, however, requires large quantities of seed. Also weed competition in direct seeded fields is high.
+Rotational and intermittent irrigation:
+Rice thrives well in both flooded and dry field as long as water supply is assured. Experiments conducted by the International Rice Research Institute in the 1970s show that yields of irrigated lowland rice were highest when fields were maintained at saturated level. In addition, rotational irrigation was found to be the most efficient operation in irrigation systems. Farmers in rainfed lowland rice ecosystems build bunds to store rain water as measure to prevent possible drought caused by erratic rainfall distribution. Also, lowland rice farmers flood rice field as a way to keep down weed competition. Improvement in weed management would promote the adoption of rotational and intermittent irrigation to increase the efficiency of water use in irrigated lowland rice production.
+Aerobic rice or irrigated upland rice:
+Water consumption in aerobic rice ecosystems was lower than that in flooded lowland rice systems. Yields of aerobic rice, however, are still about 80% of that in irrigated lowland rice ecosystems. Moreover, in
+Brazil
+yields of aerobic rice decrease substantially in areas where rice was cropped continuously.
+Confronting the degrading environment and increasing pest pressure
+The intensification of rice production has harmed the environment. The excessive use of pesticides causes water pollution and human health hazards. Intensive irrigation with inadequate drainage has increased the salinity level in rice soils in semi-arid and arid zones. After years of high yields, rice soils are depleted of nutrients. The application of combinations of following existing technologies would be necessary for sustainable intensification of rice production in the future:
+Soil fertility:
+In the past, traditional rice farmers in
+Asia
+used raw organic matter, human and animal manures, ashes, fish bone and other waste materials to make the rice plant more productive. Compost and green manures had also widely used. Compost was a major factor for farmers to win in yield contests organized in
+Japan
+during 1948-1968. In many countries green manure is regarded as an important nutrient source for rice. Azolla for example had been widely used by farmers in
+China
+and northern
+Viet Nam
+to fertilize rice crops. The use of compost and other organic sources of fertilizer, however, has declined with increased industrialization, high cost of labour, and the availability of inorganic fertilizers. Site and season specific nutrient management and recommendations could reduce nutrient losses and chemical pollution of the environment. Soil analysis is widely practiced by farmers in developed countries for determination of fertilizer types and doses for application to rice crop. The majority of farmers in developing countries, however, could not afford the cost of soil analysis.
+Integrated Plant Nutrient Management (IPNM) systems promote the application of balanced doses of inorganic and organic fertilizers and the application of fertilizer doses based on the responses of rice varieties planted in different eco-zones and in different seasons. It has been found that IPNM is more beneficial in maintaining rice soil fertility and it has been widely adopted in irrigated lowland rice production in many countries. Among the mineral element, rice crop requires considerable amount of nitrogen. In the 1970s and 1980s, the International Rice Research Institute and a good number of national institutions recommended the application of 2/3 N rate before transplanting and 1/3 N rate at panicle initiation stage in order to improve the efficiency of nitrogen fertilizer use in the cultivation of high-yielding varieties. Recently, the use of chlorophyll and leaf colour chart has been recommended for determination of nitrogen requirement of rice plants during their growth.
+Pests and diseases:
+In the 1970s up to the early 1980s the application of large doses of pesticides were recommended in irrigated lowland rice production together with resistant rice varieties. Considerable evidence has been produced to challenge the need for routine chemical treatment to protect the rice crop. Also some rice insects and diseases have different biotypes and races. A resistant variety may become susceptible after being successively cropped for a period of time because the insect develops new biotype. For example IR36, released in 1976, has high level of resistance to brown plant hopper, a major rice insect of rice in
+Asia
+that transmit ragged stunt virus. After few years of wide cultivation, IR36 was severely damaged in mid 1980s by a new biotype of brown plant hopper and the associated ragged stunt.
+Rice fields harbour a tremendous diversity of animals, plants, and micro-organisms; some of them are harmful, while others are beneficial to rice crop. Integrated Pest Management (IPM), therefore, was popularized for rice production. The basic premise of IPM is that no single pest control can be completely successful and crops may sustain certain degrees of damages before yields are affected. The IPM is an approach to crop protection based on understanding and managing the agro-ecosystem to create conditions that suppress the development of pests and diseases. Important elements are conservation of natural enemy populations for insect pest control. Techniques applied under IPM include a broad variety of agronomic practices to suppress pest and disease development, biological control agents, insect lures and traps and if additional use of pest management inputs is justified, chemical pesticides may be applied to limit the building up of the population of harmful insect or disease.
+Weeds limit rice yield greatly in all ecosystems through competition with rice for sunlight, water and nutrients. Weed competition during early growth stages of rice reduces rice yield greatly. Weed management is more difficult in direct seeding than in transplanted rice. Manual weeding requires time and man power, sometimes up to 150 man-days per hectare, especially in upland ecosystems, while herbicide treatment could be costly and may have undesirable effect on the environment of rice field and surrounding areas. In addition some weeds develop resistance to repeated herbicide application. Integrated Weed Management promotes the use of rice varieties with superior weed competitiveness, use clean seed, biological control, allelopathy, cultural practices and herbicide application. Optimum combination of weed management may differ greatly depending on the type of rice culture and resources available to farmers.
+Integrated crop management
+The availability of information technology and other technologies since the 1980s provides the farmers in developed countries with new tools and approaches to characterize the nature and extent of variation in the fields, enabling them to develop the precision farming system for precisely managing rice crop based on specific conditions, thus increasing the efficiency of input application. Agricultural research and education institutes in developing countries are familiar with the precision farming system. However, the technologies and tools used in precision farming system in developed countries are beyond the reach of resource-poor farmers in developing countries.
+The 19th Session of the IRC in 1998 directed special attention to the yield gap in irrigated lowland rice production and noted that bridging the yield gap was the most appropriate means of increasing yield and profitability in the highly productive irrigated lowland rice ecosystems. In September 2000, the Secretariat of the International Rice Commission organized the Expert Consultation on Yield Gap and Productivity Decline in Rice Production. One recommendation of the Consultation was the adoption of a system to help farmers to identify all factors influencing production. Such an integrated approach, referred to as Rice Integrated Crop Management (Rice -
+) has been extremely successful in closing the gap between potential and actual rice yields. One of such system, developed in
+Australia
+in the late 1980s, called RICECHECK helps pinpoint which factors are causing reduced yields so farmer can respond with focused action. After a little more than a decade of using this system, Australian national rice yield jumped from 6 tonnes/ha to over 9.5 tonnes/ha.
+Rice-wheat production (from Save and Grow: an ecosystem approach to sustainable intensification of small farmer crop production)
+Sustainable productivity in rice-wheat farming systems was pioneered on the Indo-Gangetic Plain of Bangladesh, India,
+Nepal
+, and
+Pakistan
+by the Rice-Wheat Consortium, an initiative of the CGIAR and national agriculture research centres. It was launched in the 1990s in response to evidence of a plateau in crop productivity, loss of soil organic matter and receding groundwater tables.
+The system involves the planting of wheat after rice using a tractor-drawn seed drill, which seeds directly into unploughed fields with a single pass. As this specialized agricultural machinery was originally not available in
+South Asia
+, the key to diffusion of the technology was creating a local manufacturing capacity to supply affordable zero tillage drills. An IFPRI study found that zero tillage wheat provides immediate, identifiable and demonstrable economic benefits. It permits earlier planting, helps control weeds and has significant resource conservation benefits, including reduced use of diesel fuel and irrigation water. Cost savings are estimated at US$52 per hectare, primarily owing to a drastic reduction in tractor time and fuel for land preparation and wheat establishment.
+Some 620 000 farmers on 1.8 million ha of the Indo-Gangetic Plain have adopted the system, with average income gains of US$180 to US$340 per household. Replicating the approach elsewhere will require on-farm adaptive and participatory research and development, links between farmers and technology suppliers and, above all, interventions that are financially attractive.
+Rice and fish integration (from Biodiversity for Food and Agriculture: Contributing to food security in a changing world)
+Cultivating rice and fish together is a 2000-year-old tradition in some parts of
+South-East Asia
+. However, the practice was gradually abandoned due to population pressures and the widespread introduction of high-input monoculture with high-yield rice varieties and the use of pesticides and herbicides that decreased fish stocks due to their toxicity. During the 1980s and early 1990s, rice–fish culture as managed cultivation systems experienced a revival. From an IPM point of view, fish culture and rice farming are complementary activities: fish not only play a direct role in regulating pest populations but also provide additional income which raises the economic threshold for chemical control of rice pests to a higher level than would be considered critical in rice monocultures. Indigenous fish species and breeds, such as dhela (Rohtee cotio) and thai sarpunti (Barbonymus gonionotus) in
+Bangladesh
+, respond better in mixed culture than commonly cultured breeds.
+Integrated culture not only yields a variety of products from the same unit of land but also increases rice yields (both grain and straw), particularly on poorer soils and unfertilized crops (Dewan et al., 2003). The area and production of rice–fish systems in China has increased dramatically since the mid 1980s: production of finfish and other aquatic animals in these systems increased from around 81 000 tonnes in 1985 to 1.16 million tonnes in 2007 (Figure 10), while the area increased from about 650 000 hectares to about 1.55 million hectares over the same period. These increases were mainly the result of supportive government policies at the local and national levels aimed at increasing the income of rural farmers (Miao Weimin, 2010). Rice yields from mixed systems in
+China
+have also increased by 10–15%. With savings on pesticides and earnings from fish sales, increases in net income on rice–fish farms are reportedly 7–65% higher than on rice monoculture farms (Halwart, 1998).
+Diversity of the rice crop is also important in determining the efficiency and productivity of the integrated system: the use of long-stemmed, late-maturing traditional varieties allows a higher water table and an extended period for fish farming, although the use of modern rice varieties is not a constraint for rice–fish farming. The possibility of mixing different varieties with different adaptability and productivity potential provides options for enhancing diversity and contributing to the overall resilience of the system (Halwart, 1998).
+Tools and Guidelines
+Sustainable rice systems
+What are sustainable rice systems?
+How to manage rice sustainably?
+Case sudies on sustainable rice systems
+Relevant links for sustainable rice management
+Contact us
+Terms and Conditions
+Scam Alert
+© FAO, 2026

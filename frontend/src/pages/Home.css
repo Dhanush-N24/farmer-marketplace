@@ -1,0 +1,646 @@
+/* =====================================================
+   HARVEST & CO. HOME PAGE
+===================================================== */
+
+* {
+  box-sizing: border-box;
+}
+
+.home-page {
+  position: relative;
+  min-height: calc(100vh - 100px);
+  overflow: hidden;
+  isolation: isolate;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #0b2b1b;
+}
+
+/* =====================================================
+   BACKGROUND SLIDESHOW
+===================================================== */
+
+.home-slideshow,
+.home-slide {
+  position: absolute;
+  inset: 0;
+}
+
+.home-slideshow {
+  z-index: -4;
+}
+
+.home-slide {
+  opacity: 0;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+
+  transition: opacity 1.4s ease-in-out;
+}
+
+.home-slide.active {
+  opacity: 1;
+}
+
+/* Natural cinematic overlay without hiding image */
+
+.home-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: -3;
+
+  background:
+    linear-gradient(
+      90deg,
+      rgba(4, 30, 18, 0.62) 0%,
+      rgba(6, 40, 23, 0.34) 48%,
+      rgba(5, 27, 16, 0.20) 100%
+    ),
+    linear-gradient(
+      180deg,
+      rgba(3, 18, 10, 0.12),
+      rgba(3, 20, 12, 0.30)
+    );
+}
+
+/* =====================================================
+   FLOATING LEAVES
+===================================================== */
+
+.floating-leaf {
+  position: absolute;
+  z-index: 2;
+  pointer-events: none;
+  opacity: 0.7;
+
+  filter:
+    drop-shadow(0 10px 18px rgba(0, 0, 0, 0.35));
+
+  animation: floatLeaf 7s ease-in-out infinite;
+}
+
+.leaf-one {
+  top: 18%;
+  right: 8%;
+  font-size: 34px;
+}
+
+.leaf-two {
+  bottom: 18%;
+  right: 40%;
+  font-size: 28px;
+  animation-delay: 2s;
+}
+
+.leaf-three {
+  bottom: 10%;
+  left: 7%;
+  font-size: 30px;
+  animation-delay: 4s;
+}
+
+@keyframes floatLeaf {
+  0%,
+  100% {
+    transform: translateY(0) rotate(0);
+  }
+
+  50% {
+    transform: translateY(-14px) rotate(7deg);
+  }
+}
+
+/* =====================================================
+   HERO
+===================================================== */
+
+.home-content {
+  position: relative;
+  z-index: 3;
+
+  width: min(760px, 90%);
+  margin-left: clamp(45px, 8vw, 140px);
+
+  padding: 105px 0 70px;
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+
+  padding: 12px 20px;
+
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 999px;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.15),
+      rgba(94, 167, 105, 0.12)
+    );
+
+  backdrop-filter: blur(16px) saturate(130%);
+  -webkit-backdrop-filter: blur(16px) saturate(130%);
+
+  box-shadow:
+    0 12px 35px rgba(0, 0, 0, 0.16),
+    inset 0 1px 0 rgba(255, 255, 255, 0.18);
+
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+
+.badge-dot {
+  width: 10px;
+  height: 10px;
+
+  border-radius: 50%;
+
+  background: #72f3a0;
+
+  box-shadow:
+    0 0 15px rgba(114, 243, 160, 0.9);
+}
+
+.hero-title {
+  max-width: 780px;
+
+  margin: 30px 0 20px;
+
+  font-size: clamp(56px, 6vw, 92px);
+  line-height: 1;
+  letter-spacing: -4px;
+
+  text-shadow:
+    0 8px 30px rgba(0, 0, 0, 0.18);
+}
+
+.hero-title span {
+  display: block;
+
+  margin-top: 8px;
+
+  background:
+    linear-gradient(
+      100deg,
+      #76e9a0,
+      #d4f57d
+    );
+
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  color: transparent;
+}
+
+.hero-description {
+  max-width: 650px;
+
+  color: rgba(255, 255, 255, 0.88);
+
+  font-size: 18px;
+  line-height: 1.7;
+
+  text-shadow:
+    0 3px 15px rgba(0, 0, 0, 0.35);
+}
+
+/* =====================================================
+   BUTTONS
+===================================================== */
+
+.hero-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+
+  margin-top: 32px;
+}
+
+.primary-button,
+.secondary-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+
+  padding: 16px 25px;
+
+  border-radius: 17px;
+
+  text-decoration: none;
+
+  font-weight: 700;
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.primary-button {
+  color: #082717;
+
+  background:
+    linear-gradient(
+      135deg,
+      #8cf1a9,
+      #d7ef7c
+    );
+
+  box-shadow:
+    0 15px 35px rgba(105, 230, 135, 0.28);
+}
+
+.secondary-button {
+  color: white;
+
+  border: 1px solid rgba(255, 255, 255, 0.28);
+
+  background:
+    rgba(255, 255, 255, 0.12);
+
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.primary-button:hover,
+.secondary-button:hover {
+  transform: translateY(-4px);
+}
+
+.primary-button:hover {
+  box-shadow:
+    0 20px 42px rgba(105, 230, 135, 0.4);
+}
+
+.secondary-button:hover {
+  background:
+    rgba(255, 255, 255, 0.19);
+}
+
+.button-arrow {
+  font-size: 22px;
+}
+
+/* =====================================================
+   STATS
+===================================================== */
+
+.stats-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+
+  margin-top: 42px;
+}
+
+.stat-card {
+  min-width: 180px;
+
+  display: flex;
+  align-items: center;
+  gap: 13px;
+
+  padding: 16px 19px;
+
+  border:
+    1px solid rgba(255, 255, 255, 0.22);
+
+  border-radius: 20px;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.14),
+      rgba(24, 92, 52, 0.16)
+    );
+
+  backdrop-filter: blur(20px) saturate(130%);
+  -webkit-backdrop-filter: blur(20px) saturate(130%);
+
+  box-shadow:
+    0 15px 32px rgba(0, 0, 0, 0.16),
+    inset 0 1px 0 rgba(255, 255, 255, 0.12);
+}
+
+.stat-icon {
+  font-size: 27px;
+}
+
+.stat-card h3 {
+  margin: 0;
+
+  font-size: 15px;
+}
+
+.stat-card p {
+  margin: 4px 0 0;
+
+  font-size: 12px;
+
+  color:
+    rgba(255, 255, 255, 0.72);
+}
+
+/* =====================================================
+   AI PREVIEW
+===================================================== */
+
+.ai-preview-card {
+  position: absolute;
+  z-index: 5;
+
+  right: clamp(40px, 8vw, 150px);
+  top: 26%;
+
+  width: min(390px, 30vw);
+
+  padding: 27px;
+
+  overflow: hidden;
+
+  border:
+    1px solid rgba(255, 255, 255, 0.3);
+
+  border-radius: 28px;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.20),
+      rgba(20, 80, 46, 0.20)
+    );
+
+  backdrop-filter:
+    blur(22px) saturate(135%);
+
+  -webkit-backdrop-filter:
+    blur(22px) saturate(135%);
+
+  box-shadow:
+    0 25px 65px rgba(0, 0, 0, 0.24),
+    inset 0 1px 0 rgba(255, 255, 255, 0.22);
+}
+
+.ai-card-glow {
+  position: absolute;
+  inset: 0;
+
+  pointer-events: none;
+
+  background:
+    radial-gradient(
+      circle at 15% 0%,
+      rgba(115, 245, 154, 0.20),
+      transparent 40%
+    );
+}
+
+.ai-preview-header,
+.ai-message,
+.ai-question,
+.ai-card-button {
+  position: relative;
+  z-index: 1;
+}
+
+.ai-preview-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.ai-avatar {
+  width: 68px;
+  height: 68px;
+
+  display: grid;
+  place-items: center;
+
+  border-radius: 21px;
+
+  font-size: 34px;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(113, 236, 157, 0.72),
+      rgba(29, 119, 76, 0.60)
+    );
+
+  border:
+    1px solid rgba(255, 255, 255, 0.28);
+}
+
+.ai-preview-header h3 {
+  margin: 0;
+
+  font-size: 22px;
+}
+
+.ai-preview-header p {
+  margin: 7px 0 0;
+
+  font-size: 13px;
+
+  color:
+    rgba(255, 255, 255, 0.82);
+}
+
+.ai-preview-header p span {
+  display: inline-block;
+
+  width: 9px;
+  height: 9px;
+
+  border-radius: 50%;
+
+  background: #72f6a0;
+
+  box-shadow:
+    0 0 12px #72f6a0;
+}
+
+.ai-message,
+.ai-question {
+  margin-top: 20px;
+
+  padding: 17px;
+
+  border:
+    1px solid rgba(255, 255, 255, 0.16);
+
+  border-radius: 18px;
+
+  background:
+    rgba(255, 255, 255, 0.10);
+}
+
+.ai-message {
+  display: flex;
+  gap: 12px;
+}
+
+.ai-message p {
+  margin: 0;
+
+  line-height: 1.55;
+}
+
+.ai-question {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ai-card-button {
+  display: flex;
+  justify-content: space-between;
+
+  margin-top: 17px;
+
+  padding: 15px 18px;
+
+  border-radius: 15px;
+
+  color: white;
+
+  text-decoration: none;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(93, 210, 125, 0.42),
+      rgba(35, 116, 66, 0.35)
+    );
+
+  transition: 0.25s ease;
+}
+
+.ai-card-button:hover {
+  transform: translateY(-3px);
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(105, 232, 140, 0.52),
+      rgba(35, 125, 70, 0.45)
+    );
+}
+
+/* =====================================================
+   SLIDE INDICATORS
+===================================================== */
+
+.slide-indicators {
+  position: absolute;
+  z-index: 5;
+
+  right: 50px;
+  bottom: 35px;
+
+  display: flex;
+  gap: 9px;
+}
+
+.indicator {
+  width: 8px;
+  height: 8px;
+
+  border-radius: 50%;
+
+  background:
+    rgba(255, 255, 255, 0.45);
+}
+
+.indicator.active {
+  width: 28px;
+
+  border-radius: 20px;
+
+  background:
+    #9df5a6;
+}
+
+/* =====================================================
+   SCROLL INDICATOR
+===================================================== */
+
+.scroll-indicator {
+  position: absolute;
+  z-index: 4;
+
+  left: 50%;
+  bottom: 28px;
+
+  transform: translateX(-50%);
+
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  font-size: 10px;
+  letter-spacing: 3px;
+}
+
+.scroll-line {
+  width: 60px;
+  height: 1px;
+
+  background:
+    rgba(255, 255, 255, 0.55);
+}
+
+/* =====================================================
+   RESPONSIVE
+===================================================== */
+
+@media (max-width: 1100px) {
+
+  .ai-preview-card {
+    position: relative;
+
+    top: auto;
+    right: auto;
+
+    width: min(760px, 90%);
+
+    margin: 0 auto 70px;
+  }
+
+  .home-content {
+    padding-bottom: 45px;
+  }
+}
+
+@media (max-width: 650px) {
+
+  .home-content {
+    width: 90%;
+    margin-left: 5%;
+
+    padding-top: 65px;
+  }
+
+  .hero-title {
+    letter-spacing: -2px;
+  }
+
+  .hero-description {
+    font-size: 16px;
+  }
+
+  .stat-card {
+    width: 100%;
+  }
+
+  .slide-indicators {
+    right: 25px;
+  }
+
+  .scroll-indicator {
+    display: none;
+  }
+}

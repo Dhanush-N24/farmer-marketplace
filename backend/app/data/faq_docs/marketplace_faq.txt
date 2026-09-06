@@ -1,0 +1,91 @@
+FARMER MARKETPLACE - CUSTOMER HELP
+
+What is Farmer Marketplace?
+Farmer Marketplace is a platform that connects farmers directly with customers to buy agricultural products.
+
+How do I register?
+You can create an account by selecting Register and entering your name, email, password, role, and phone number.
+
+What account roles are available?
+The platform supports two roles: farmer and customer.
+
+How do I log in?
+Go to the Login page and enter your registered email and password.
+
+How do I browse products?
+Go to the Products page to view available marketplace products.
+
+How do I search for products?
+You can use the product search feature to find products based on their name or related terms.
+
+How do I add products to my cart?
+Open a product and select the option to add the product to your cart.
+
+How do I place an order?
+Add the required products to your cart, proceed to checkout, and create your order.
+
+What happens when I place an order?
+The system creates an order with pending status and calculates the total amount.
+
+Can I see my order status?
+Currently, newly created orders have a pending status.
+
+Who sells products on the marketplace?
+Products are added and sold by farmers registered on the platform.
+
+What is the AI product recommendation feature?
+The AI recommendation feature finds products that are semantically related to a customer's search query.
+
+What is the Farming Assistant?
+The Farming Assistant is an AI feature designed to answer farming and agricultural questions using the platform's farming knowledge base.
+
+What should I do if I cannot find a product?
+Try searching with different keywords or browse the available products.
+
+Is this marketplace focused on South Indian agriculture?
+The farming knowledge features prioritize South Indian agricultural information, while customers can browse products available on the marketplace.
+
+Is registration free?
+Yes. Users can register on the Farmer Marketplace platform by creating an account with their required details.
+
+Can farmers and customers use the same account?
+No. During registration, users select their role as either farmer or customer.
+
+What information is required for registration?
+Users need to provide their name, email address, password, role, and optionally a phone number.
+
+What should I do if I cannot log in?
+Make sure you are using the correct registered email address and password. If the problem continues, register only if you do not already have an account.
+
+How are product prices displayed?
+Each product in the marketplace displays its price along with its product information.
+
+What happens if a product is out of stock?
+An order cannot be successfully created for a quantity greater than the available product stock.
+
+Can I choose the quantity of a product?
+Yes. The quantity requested is included when creating an order, subject to available stock.
+
+What happens if I order more than the available stock?
+The system returns an insufficient stock message and the order is not created for that unavailable quantity.
+
+How does direct farmer-to-customer buying help?
+The marketplace is designed to connect farmers directly with customers and provide a direct platform for agricultural products.
+
+How does AI product search work?
+AI product search uses semantic search to find products related to the meaning of a customer's query, rather than relying only on exact keyword matches.
+
+What are AI product recommendations?
+The recommendation system finds marketplace products that are semantically related to the customer's query.
+
+Can I ask the platform questions about farming?
+Yes. The Farming Assistant is available for farming and agricultural questions using the platform's agricultural knowledge base.
+
+What is the difference between the Farming Assistant and Customer Assistant?
+The Farming Assistant answers agricultural and farming questions. The Customer Assistant helps users understand marketplace features such as registration, products, orders, and AI features.
+
+Can I browse products without using AI search?
+Yes. Users can browse the available products directly from the Products page.
+
+What happens after an order is created?
+The system calculates the total order amount, reduces the available product stock, and creates the order with a pending status.

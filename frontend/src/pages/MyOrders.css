@@ -1,0 +1,169 @@
+.orders-page {
+  min-height: calc(100vh - 80px);
+  padding: 60px 8%;
+  background: #f4f1e9;
+}
+
+.orders-container {
+  max-width: 1100px;
+  margin: auto;
+}
+
+.orders-header {
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+.orders-badge {
+  display: inline-block;
+  padding: 9px 18px;
+  border-radius: 30px;
+  background: #dcefd5;
+  color: #2e7145;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+.orders-header h1 {
+  margin: 18px 0 10px;
+  color: #17382c;
+  font-size: 48px;
+}
+
+.orders-header h1 span {
+  color: #4d9259;
+}
+
+.orders-header p {
+  color: #718077;
+  font-size: 16px;
+}
+
+.orders-list {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.order-card {
+  display: grid;
+  grid-template-columns: 70px 1fr 150px 160px;
+  align-items: center;
+  gap: 20px;
+
+  padding: 25px;
+
+  background: white;
+  border-radius: 18px;
+
+  box-shadow: 0 8px 25px rgba(30, 60, 40, 0.08);
+}
+
+.order-icon {
+  width: 60px;
+  height: 60px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #eef7e9;
+  border-radius: 16px;
+
+  font-size: 28px;
+}
+
+.order-info span,
+.order-status span,
+.order-total span {
+  display: block;
+
+  color: #8a978f;
+
+  font-size: 11px;
+  font-weight: 800;
+
+  letter-spacing: 1px;
+}
+
+.order-info h3 {
+  margin: 7px 0 0;
+
+  color: #234535;
+}
+
+.order-status strong {
+  display: inline-block;
+
+  margin-top: 7px;
+
+  padding: 6px 12px;
+
+  border-radius: 20px;
+
+  background: #fff3c9;
+  color: #8a6510;
+
+  text-transform: capitalize;
+}
+
+.order-total strong {
+  display: block;
+
+  margin-top: 7px;
+
+  color: #2e7145;
+
+  font-size: 20px;
+}
+
+.orders-empty,
+.orders-loading,
+.orders-error {
+  padding: 60px 25px;
+
+  text-align: center;
+
+  background: white;
+
+  border-radius: 20px;
+
+  box-shadow: 0 8px 25px rgba(30, 60, 40, 0.08);
+}
+
+.orders-empty-icon {
+  font-size: 55px;
+}
+
+.orders-empty h2 {
+  color: #17382c;
+}
+
+.orders-empty p {
+  color: #718077;
+}
+
+.orders-error {
+  color: #b84242;
+}
+
+@media (max-width: 750px) {
+
+  .orders-page {
+    padding: 40px 5%;
+  }
+
+  .orders-header h1 {
+    font-size: 38px;
+  }
+
+  .order-card {
+    grid-template-columns: 60px 1fr;
+  }
+
+  .order-status,
+  .order-total {
+    grid-column: 2;
+  }
+}

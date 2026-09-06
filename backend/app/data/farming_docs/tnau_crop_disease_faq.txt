@@ -1,0 +1,146 @@
+TNAU Agritech Portal :: Crop Protection
+Home
+About Us
+Success Stories
+Farmers Association
+Farmers' Innovation
+Publications
+Contact
+Crop protection :: Crop Disease :: FAQs
+1. Which diseases are important in lentils in Saskatchewan?
+Ascochyta blight and anthracnose are the two most important diseases followed by botrytis stem and pod blight. These diseases become most problematic from flowering to maturity.Â  Sclerotinia is also widespread but not economically important, except where lodging due to wet conditions occur.
+2. If I use a resistant variety, do I need to spray?
+Lentil varieties classified as “resistant” are not completely immune to the diseases.Â  These varieties resist infection and damage to a reasonable extent and under certain conditions the crop may show few symptoms and suffer little damage.Â  However, if conditions are favourable for disease development and spread, the crop may succumb to the pressure and suffer significant damage.Â  Hence, fungicide application may be needed to assist the plant and control the disease.
+3. What are the symptoms of these diseases and when do they appear?
+Fig. 1. Ascochyta on lentil leaflets Source: Buchwaldt et al. 2001
+Ascochyta:
+Â Grey to tan spots or lesions on leaflets, stems, flowers and pods, with dark margins and often with tiny black fruiting bodies (pycnidia) in the centers (Fig. 1).Â  Lesions first appear on lower leaflets close to soil surface and spread up the plant canopy.Â  Lesions on stems can girdle the plant resulting in wilting.Â  Leaves may turn brown and die off.
+Anthracnose:
+Â White to grey or cream-colored spots on leaflets and stems (Fig. 2).Â  First appear on lower leaves and stem and move up the canopy.Â  Leaves and entire plants may die back and stems of mature and dead plants often blacken.Â  Leaflets litter soil surface.Â  Leaf symptoms appear between 8 & 12 node stages â approximately one week before flowering.Â  Lesions on stems can girdle the plant resulting in wilting.Â  Yellow patches appear in fields and enlarge asthe disease spreads and plants die.
+Fig. 2.Anthracnose on lentil stem Courtesy: P. Pearse - SAF
+Botrytis:
+Â Infected seeds produce infected seedlings which die soon after emergence, resulting in reduced plant density.Â  For the rest of the crop, symptoms appear later in the season and include wilting, premature ripening, failure of pods to fill, and dead, infected crop areas.Â  Grey mouldy growth on stems and pods is visible throughout the canopy (Fig. 3).Â  These are the sources of the clouds of spores seen dispersed during harvesting.
+Fig. 3.Sclerotinia/Botrytis on lentil Courtesy: B. D. Gossen- AAFC
+Sclerotinia:
+Â Root system and base of plant brown and rotten and may have white mould growing on them (Fig. 3).Â  Plants first turn yellow, later infected areas become bleached and shredded.
+4. When and how often should I scout my lentil crop for ascochyta and anthracnose?
+Early identification of diseases is critical as it allows for timely decisions to commence fungicide application and minimize crop damage. Begin scouting at the 8 - 10 node stage (prior to flowering) and scout every 5 - 7 days.
+5. How do I scout for ascochyta and anthracnose in my lentil crop?
+Start with high risk areas and fields.Â  Select and flag 5 to 10 random locations (in an “M” pattern) in the field.Â  Early symptoms are similar for both diseases.Â  At each point, look for small (pinhead size) brown to dark brown spots at the lower parts of the plants.Â  Use a magnifying glass and field guides with photos.Â  Under humid conditions, these spots expand quickly into lesions described under symptoms above.Â  Note that anthracnose lesions are more commonly observed on stems.
+6. Who can help me diagnose these diseases?
+It is advised that you use field guides with photos or seek assistance of a qualified agronomist.Â  For conclusive identification, send a sample to the Provincial Crop Protection Lab (306-787-8130).
+7. How do I prepare samples for submission to Crop Protection Lab?
+To ensure that samples get to the lab in the best condition, keep them moist and aerated.Â  Dig the plants out with a lump of soil still attached to the roots.Â  Moisten the soil and wrap a plastic film around the soil and base of the plant.Â  Place the whole plant in a box that allows air circulation.Â  Mail the samples to the lab, preferably by courier.Â  Avoid sending samples at the end of the week as they may get stuck in the mailroom over the weekend. For sample submission forms see the SAF website under Programs and Services | SAF Forms.
+8. How do I control these diseases in my lentil crop?
+A number of foliar fungicides are registered for the control of both ascochyta and anthracnose â namely: Bravo, Dithane, Headline and Quadris.Â  Lance is registered for the control of ascochyta blight, sclerotinia Â and botrytis.Â  See the SAF Guide to Crop Protection in Saskatchewan for details on foliar fungicides. Start with high risk areas and fields.Â  Select and flag 5 to 10 random locations (in an “M” pattern) in the field.Â  Early symptoms are similar for both diseases.Â  At each point, look for small (pinhead size) brown to dark brown spots at the lower parts of the plants.Â  Use a magnifying glass and field guides with photos.Â  Under humid conditions, these spots expand quickly into lesions described under symptoms above.Â  Note that anthracnose lesions are more commonly observed on stems.
+9. Who can help me diagnose these diseases?
+It is advised that you use field guides with photos or seek assistance of a qualified agronomist.Â  For conclusive identification, send a sample to the Provincial Crop Protection Lab (306-787-8130).
+10. How do I prepare samples for submission to Crop Protection Lab?
+To ensure that samples get to the lab in the best condition, keep them moist and aerated.Â  Dig the plants out with a lump of soil still attached to the roots.Â  Moisten the soil and wrap a plastic film around the soil and base of the plant.Â  Place the whole plant in a box that allows air circulation.Â  Mail the samples to the lab, preferably by courier.Â  Avoid sending samples at the end of the week as they may get stuck in the mailroom over the weekend.
+11. How do I control these diseases in my lentil crop?
+A number of foliar fungicides are registered for the control of both ascochyta and anthracnose â namely: Bravo, Dithane, Headline and Quadris.Â  Lance is registered for the control of ascochyta blight, sclerotinia Â and botrytis.Â  See the SAF Guide to Crop Protection in Saskatchewan for details on foliar fungicides.
+12. How much yield reduction can the crop suffer?
+If ascochyta spreads to the top of the canopy and wet conditions prevail, infection may lead to flower and pod abortion resulting in significant yield losses â as much as 50%.Â  More economic losses are incurred due to reduction in grain quality.Â  Anthracnose is capable of causing yield losses in excess of 50% and is much more destructive than ascochyta.
+13. How can I prevent these diseases?
+Crop rotation is key to preventing these diseases as it allows time for the lentil residue on which the fungi survive to decompose.Â  Allow 4 years between lentil crops.Â  The highest levels of anthracnose are usually observed on fields with a history of lentils every second year.Â  Avoid planting lentil adjacent to previous year’s lentil fields to reduce residue and windborne spread of the pathogens.Â  Plant seed that has been tested at an acredited lab and known to have zero or acceptable levels of seed borne diseases and high germination.Â  Use seed treatments to protect the seed and seedlings from seed-borne diseases.Â  Choose varieties classified as disease resistant when available.
+14. How the bast disease of rice is controlled ?
+Treat the seeds with Thiram or Captan @ 4 gram per kg of seeds before sowing.
+Spray the nursery seedlings or after transplanting with Hinosan @ 2 ml or Bavistin @ 1 g/litre of water starting from the appearance of the disease and continue the spray 2 to 3 at 10 days interval.
+15. How the brown spot disease of rice is controlled ?
+Treat the seeds with Thiram or Captan @ 4g/kg seeds before sowing.
+Spray the crop with Hinosan @ 2 ml or Indofil M-45 @ 4g/litre of water at 10-15 days interval.
+16. How the sheath blight disease of rice is controlled ?
+Treat the seeds with carbendazim (Bavistin) @ 2g/kg seeds before sowing and give 2-3 sprays with cabendazim @ 1g/litre of water or Validacin @ 3ml/litre or Kitazin @ 2 ml/litre of water.
+17. How the Bacterial leaf blight of rice is controlled ?
+Treat the seeds with plantomycine @ 10g + Blitox-50 @ 20g/10 lit. of water.
+Spray the crop with plantomycene @ 10g + Blitox-50 @ 20g/litre aof water. When the symptom starts. Repeat the spray at 10-12 days interval.
+18.Â
+How the leaf blight of maize is controlled ?
+Starting at symptom appearance give 3 to 4 sprays of Indofil M-45 or captafol @ 4 grams/litre of water at 7 to 10 days interval.
+19.Â
+How to control the stalkrot of maize ?
+Spray the crop at basal level with Indofil M-45 @ 4g/litre of water.
+Â How the leaf spot disease of greengram and blackgram is controlled ?
+Treat the seeds with carbendazime (Bavistin) @ 2g/kg seeds before sowing.
+Spray the crop with Bavistin @ 1g/litre aof water at 10-15 days uinterval.
+21.Â
+How to control the powdering mildew disease of greengram and blackgram ?
+Spray 2 to 3 times with wettable sulphur @ 4 kgs/ha. Or Bavistin @ 1g/litre or dinocap 25% wp @ 2 kg/ha at 7-10 days interval.
+How the collar rot disease of groundnut is controlled ?
+Treat the seeds with Benomyl or Carbendazim or Thiram @ 2g/kg seeds before sowing.
+23. Â How the tikka disease aof groundnut is controlled ?
+Give 2 to 3 sprays with Carbendazim + Mancozeb @ 1g + 3g/litre aof water at 15 days interval.
+24.Â
+How the rust disease of groundnut is controlled ?
+Starting at 6 weeks after planting give 2 to 3 sprays with Bitertanol 25 wp @ 750g/ha or with Captafol 80 wp @ 2 kg/ha at 10-15 days interval.
+25.Â
+How the Alternaris blight disease of mustard is controlled ?
+Spray the crop with captafol or Indofil M-45 @ 4g/litre of water three times at 10-15 days interval.
+26. How the downy mildew of mustard is controlled ?
+Starting at symptom appearance give u 1 to 2 sprays with Rindomil Mz @ 5g/lit. of water at 15 days interval or Indofil m-45 @ 4g/lit. of water at 7 to 10 days interval.
+Â How to control the stem rot of jute ?
+Treat the seeds with captan or Thiram @ 3g/kg seeds.
+Spray the crop with Indofil M-45 or Blitox-50 @ 3g/litre of water or Bavistin @ 1g/litre of water.
+How the red rot disease of sugarcane is controlled ?
+Use the disease free sets.
+Treat the sets with Bavistin (2g/litre of water) for 30 minutes before planting.
+Give four sprays with copper oxychloriide @ 2g/litre at 15 days interval.
+29.Â
+How the damping off disease of brinjal seedlings is controlled ?
+Treat the seeds with Thiram @ 2.5g/kg seeds or metalaxyl 35% SD @ 2g/kg seeds.
+How to control the fruit rot and blight of brinjal ?
+Starting at symptom appearance give three sprays with carbendazim or benomyl @ 1g/litre of water or spray Indofil M-45 @ 5g/litre of water at 10-15 days interval.
+31.Â
+How the damping off disease of chilli is controlled ?
+Treat the seeds with metalaxyl 35% SD @ 2g/kg seeds.
+Treat the nursery bed with formaldehyde 4% solution of Bordeaux mixture 4:4:50.
+32.Â
+How the fruit rot and die back disease of chilli is controlled ?
+At fruiting stage spray with carbendazim @ 1g/litre of water or copper oxychloride @ 5g/litre of watrer or Indofil M-45 @ 5g/litre of water. Repeat the 2 to 3 times at 10 to 15 days interval.
+33. How the damping off disease of tomato seedlings is controlled ?
+Treat the seeds with metalaxyl 35% SD + Thiram 75% WP @ 2.5 g each/kg seeds.
+Treat the nursery bed with 4% formaldehyde solution or bordeaux mixture.
+How the late blight and early blight diseases of potato are controlled.?
+Starting at sympptom appearance give 3 to 4 sprays with Captafol @ 3g/litre or Indofil M-45 @ 4g/litre of water or Bavistin @ 1g/litre of water at 10 to 15 days interval.
+35.Â
+How the anthracnose disease of beans is controlled ?
+Treat the seeds with carbendazim @ 2g/kg seeds.
+Spray the crop with carbendazim @ 1g/litre or Indofil M-45 @ 4g/litre of watrer at 10-14 days interval.
+How the gray blight and fruit rot of guava is controlled ?
+Spray the tree with Bavistin @ 1g/litre or Copper oxychloride @ 4g/litre of water.
+37.Â
+How the Anthracnose disease of mango is controlled ?
+Give sprays with Bavistin @ 1g/litre or Captan @ 3g/litre of water at 15 days interval.
+How the Budrot, fruit rot and nut fall of coconut are controlled ?
+Two sprays with Fosetyl-AL 8g /litre or copper oxychloride 5g/litre at 40 days interval first spray just before monsoons start.
+39.Â
+How to Identify the diseases of crops ?
+For this purpose, farmers are requested to bring the diseased samples to be examined by the Scientist (Plant Pathology) and as per his advice, necessary control measures should be taken up.
+40.Â
+How to check purple blutch and damping of Onion ?
+Spray the crop with Bavistin @ 1g/litre or Indofil M-45 @ 3g/litre or copper oxychloride @ 3 g/litre of water when the disease appears and continue the spray thrice with an interval of 10-15 days. Treat the seeds with captan or Thiram @ 3g/kg seeds before nursery sowing.
+41. What are insects?
+Insects are the small animals generally with 3 segmented body parts and 6 or more legs. Insects cause damage by chewing, sucking or piercing plant parts.
+42. What are nematodes?
+Nematodes are tiny parasitic worms which are microscopic in nature, meaning there by, invisible to unaided eye. All species of plant parasitic nematode feeds on the plant fluid through needle like oral stylet. They cause damage in the plant root system which sometime appears as galls or swollen point on the root system. The injured part may serve as the entry point for several diseases causing pathogen.
+43. What are diseases?
+In layman language, just like weeds are plants out of place, diseases are caused by the organisms out of place. It is the malfunctioning of plant cells and tissues that results form continuous irritation by a pathogenic agent or environmental factor and leads to development of symptoms. Diseases may be caused by many different types of plant pathogens.
+44. How are the weeds, insects, nematodes and diseases related to weather?
+In the suitable weather condition these can thrive well and wreck havoc on the crop cultivation and could be the major cause for severe yield loss. So, if weather condition in which they develop is known to us then we can apply control measures and thus maximize our yield and profit.
+45. Why disease and pest forecasting for crop cultivation is needed?
+Since time immemorial, farmers/growers have been adopting cultivation practices according to guesstimate, which often results in the excess and non-judicious use of the pesticide, which have multiplier adverse effect on the farmers/growers net income. For example: A grape grower on a conservative estimate sprays 18 times per acre @ Rs1000/- per spray for a disease without knowing its incidence or severity. The same farmer, if follows the pest and disease forecasting advice has to spray only 11 times, thus lessening its input cost in cultivation. Moreover, more the crop is sprayed more will be risk of pesticide residue, which is harmful for human consumption, and ultimately fetch less prices or more often rejection of their produce in International market.
+46. Which weather parameters are needed for the disease forecasting of crop?
+Temperature (maximum, minimum and mean), relative humidity, day length, leaf wetness and rainfall are the minimum weather parameter needed for the disease forecasting of crop.
+47. Where should we position our weather station for the disease forecasting?
+We should position our weather station containing minimum of the five sensors viz., temperature, relative humidity, day length, leaf wetness and rainfall at the representative site on the crop field.
+48. How to select the representative site for the disease and pest forecasting?
+The representative site means the area in the crop field, which is representative of the whole crop field. Meaning there by, the area or the portion of the crop field that show earliest incidence of the disease and pest, is the representative area for that particular field. The farmer/growers past experience is valuable in selecting the representative area at the crop field.
+49. How much area can a weather station cover in relation with the disease and pest forecasting?
+A weather station essentially measures the microclimate a plant at the representative area of the crop field. The wisely chosen representative area can help in predicting the disease and pest situation of more than forty acre with even topography.
+Home
+About Us
+Success Stories
+Farmers Association
+Publications
+Contact Us
+Â© 2013 TNAU. All Rights Reserved.

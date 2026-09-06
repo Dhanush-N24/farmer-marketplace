@@ -1,0 +1,136 @@
+.farm-background {
+  position: fixed;
+  inset: 0;
+  z-index: -10;
+  overflow: hidden;
+  background: #071b12;
+}
+
+.farm-bg-image {
+  position: absolute;
+  inset: -4%;
+
+  background-size: cover;
+  background-position: center;
+
+  opacity: 0;
+
+  transform: scale(1.08);
+
+  transition:
+    opacity 1.5s ease-in-out,
+    transform 5s ease-in-out;
+
+  filter:
+    saturate(1.15)
+    contrast(1.05)
+    brightness(0.8);
+}
+
+.farm-bg-image.active {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.farm-bg-overlay {
+  position: absolute;
+  inset: 0;
+
+  background:
+    linear-gradient(
+      90deg,
+      rgba(2, 20, 12, 0.88),
+      rgba(4, 35, 20, 0.68),
+      rgba(8, 35, 22, 0.48)
+    ),
+    linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.5)
+    );
+
+  backdrop-filter: blur(1px);
+}
+
+.farm-bg-glow {
+  position: absolute;
+
+  width: 600px;
+  height: 600px;
+
+  border-radius: 50%;
+
+  filter: blur(120px);
+
+  opacity: 0.25;
+
+  animation: glowMove 10s infinite alternate ease-in-out;
+}
+
+.glow-one {
+  top: -200px;
+  left: -150px;
+
+  background: #8dff6a;
+}
+
+.glow-two {
+  bottom: -250px;
+  right: -150px;
+
+  background: #00c878;
+
+  animation-delay: 2s;
+}
+
+.floating-leaf {
+  position: absolute;
+
+  font-size: 42px;
+
+  opacity: 0.7;
+
+  filter: drop-shadow(0 0 20px rgba(120, 255, 130, 0.5));
+
+  animation: floatLeaf 7s ease-in-out infinite;
+}
+
+.leaf-one {
+  top: 18%;
+  right: 8%;
+}
+
+.leaf-two {
+  bottom: 18%;
+  left: 6%;
+
+  animation-delay: 2s;
+}
+
+.leaf-three {
+  top: 55%;
+  right: 3%;
+
+  animation-delay: 4s;
+}
+
+@keyframes glowMove {
+  from {
+    transform: translate(0, 0) scale(1);
+  }
+
+  to {
+    transform: translate(100px, 60px) scale(1.2);
+  }
+}
+
+@keyframes floatLeaf {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-8deg);
+  }
+
+  50% {
+    transform: translateY(-30px) rotate(10deg);
+  }
+}

@@ -1,0 +1,69 @@
+Plant Production and Protection Division: How to practice Integrated Plant Nutrient Management
+english
+FAO Home
+Plant Production and Protection Division
+Thematic sitemap
+Information Resources
+in Keywords
+Contacts
+News and Events
+Information Resources
+Contact Us
+NSP - How to practice Integrated Plant Nutrient Management
+How to practice Integrated Plant Nutrient Management?
+Nutrient management in perennial crops
+Indicators of nutrient deficiency/ over-use
+Application methods
+Timing of the application
+Nutrient management in perennial crops
+The low soil disturbance and related complex rooting system and soil biodiversity of perennial crops have the potential to dissolve nitrogen. Perennial crops have a relatively low fertilizer demand compared to annuals crops. Unfortunately, the use of fertilizer is often inadequate and unbalanced (mainly in plantations). Application of fertilizer in plantations can result in the occurrence of noxious weeds that compete for the nitrogen. This is why weed management is very important in orchards and horticulture. Perennial crops also include a range of nitrogen fixing crops, such as alfalfa, clovers, and grassland. These can be used in intercropping in annual cropping systems to reduce the need for external nutrients and reduce the risk of leaching to the groundwater. Crop rotations with perennial crops can have advantages in the efficiency of the different farming systems. Nutrient uptake might improve over the years for perennial crops, so monitoring and a long-term vision will be required.
+Indicators of nutrient deficiency/ over-use
+Farmers use agricultural practices that are best suited to their farming system (often based on a long tradition) and household circumstances, and are thus heavily influenced by the resources available. In order to be able to choose appropriate solutions/practices for improved nutrient management, it is important for farmers to assess correctly whether an identified improved soil management practice (solution) is appropriate to the problem they experience within their farming system (site-specific nutrient management). The farmers should therefore make an assessment of the resources needed (labour, land, cash, on-farm materials, external inputs etc) and their availability within the household and/or community. This will help farmers who are experience problems with soil fertility to identify from amongst the several possible solutions, the most promising practices to be experimented with in test plots, and to identify what changes to the present household farming system may be required in order to adopt a particular practice or technology.
+Soil and nutrient problems, based on deficiency, can often be identified by means of various soil, site and crop-related indicators. These indicators of problems related to nutrient deficiency (e.g. wilting, low crop emergence, erosion and surface crusting) can disappear after the cropping season or weeding practices, and should thus be studied throughout the year. For problems related to the overuse of nutrients, the on-farm indicators are less clear by visual assessment. Whereas a visual soil assessment (
+) can provide some basic information, the nutrient use efficiency can only be estimated by more sophisticated experiments than could normally be conducted by farmers. Problems of over-use often also become only clear at the ecosystem level, which means that both farm-level analyses and ecosystem analyses have to be done to get a clear idea of both the benefits and problems that nutrient-use provides in different sectors – this includes the aquaculture-fishery sector and the cost of water-purification for human consumption.
+The amount of synthetic nutrients that is being applied in intensive farming systems to agricultural land is causing problems with downstream pollution of aquatic bodies and has to be reduced drastically by reducing wastage and improving efficiency. There is a need to adopt a wider concept of nutrient use beyond but not excluding fertilizers results from several changing circumstances and developments. Some examples of practices that may result in more effective plant nutrient management should include soil and water management practices already described and:
+Use plant nutrients in a more rational way in order to optimize crop nutrition by balanced, efficient, yield-targeted, site- and soil-specific nutrient supply.
+Focus on more aspects of soil nutrient balances in the soil and study the interrelation of different nutrients rather than only the nutrient levels.
+Use combinations of mineral & organic fertilizers obtained on and off the farm for recycling of nutrients.
+Provide nutrition on a cropping-system or crop-rotation basis for optimal use of nutrient sources, reduction of waste and stimulation of soil life.
+Consider the direct plus the long-term residual effects of fertilization and not only the first-year nutrient effects. To a large extent, this is accomplished also where crop nutrition is on a cropping-system basis rather than on a single-crop basis.
+Make a shift from static nutrient balances to nutrient flows in nutrient cycles. - A growing emphasis on monitoring and controlling the unwanted side effects of fertilization and possible adverse consequences for soil health, crop diseases and pollution of water and air.
+Focus on the total soil productivity management. This includes the amelioration of problem soils (acid, alkali, hardpan, etc.) and taking into account the resistance of crops against stresses such as drought, frost, excess salt concentration, toxicity and pollution.
+Improve, or at least maintain, soil fertility and soil health.
+Effective utilization of on-farm and off-farm wastes through recycling.
+Use application techniques and timing that minimize fertilizer losses.
+Application methods
+The need for fertilizer depends on the soil and the tillage practices (see section on Conservation Agriculture). Different crops require different amount of fertilizer in different growing stages. These guidelines will give some main benefits and drawbacks of 4 commonly used application methods.
+Broadcasting: Uniform distribution over the whole cropped field.
+Broadcasting by hand of fertilizer is commonly applied in cropping systems where mechanization is not possible due to economic on environmental restriction. Broadcasting is often practices (a) on all crops with a dense stand and not sown in rows; (b) in the case of plants whose roots spread widely in the soil; (c) on very fertile soils; (d) when high rate of fertilizers are used; (e) when readily soluble nitrogenous fertilizers are applied; and (f) when potassic fertilizers are applied in light soils. Whereas broadcasting is the standard in areas with low-mechanization and labour constraint, there are many problems related, such as a promotion of weed growth with the result that the crop does not derive full benefit of fertilizers. Another problem is that fertilizers may come in contact with a large volume of soil and are likely to be fixed and unavailable for that crop. This is particular in the case of super phosphate application.
+Placement: Application in bands or in pockets near the plants or plant rows.
+Placement of fertilizer is another manual application method that is more efficient, but also requires more labour. Different placement practices are: (1) banding i.e. placing fertilizers in bands to one or both sides of the rows (side dressing); (2) drilling in between rows; (3) spot placement i.e. by placing in between the plants (mostly practiced for vegetable crops); and (4) by placing fertilizers in a circular band away from the base of the plants as in the case of fruit trees. No single method can be considered best for all the crops. The method of placement varies with the crop, fertilizer, and weather. Deep placement of urea has shown great economic and environmental benefits in rice crops, but the high labour requirement is still limiting uptake on a large scale in most areas.
+Foliar application: Using sprayers, the fertilizers are sprayed covering the plants.
+Foliar application is applied by dissolving fertilizers in water and spraying such diluted solutions directly on the plants foliage. Hand operated sprayers can be used for smallholdings. On individual farms a tractor drawn low volume sprayers can be used while on large scale aircrafts are used for foliar spraying. Only fertilizers that do not scorch leaves can be sprayed; micronutrients are often foliar sprayed and urea sprays can also be used to supply nitrogen on a large scale. For the reason that low concentration of fertilizers needs to be sprayed most of the fertilizers are not used for foliar application. Plant nutrients are generally applied as foliar sprays on fruit trees to prevent nutritional disorders of micronutrients ; for most fruit crops, these nutrients are sprayed along with the regular spray program of pesticides, but the compatibility of nutrients and the pesticide chemicals should be ascertained before such mixtures are sprayed.
+Fertigation
+Fertigation, the application of fertilizers with irrigation water, is sometimes used on sandy soils and especially for vegetable production. Below optimum productivity is due to poor soil fertility, low water and fertilizer efficiency and unsuitable management practices. Fertigation permits improved efficiency of irrigation and nutrient use and reduces application costs. It improves plant growth and nutrient uptake and limits nutrient losses. Applying fertilizers through the irrigation system has several advantages:
+Nutrients can be applied at any time during the season and according to plant requirements.
+Placement of mobile nutrients such as nitrogen can be regulated in the soil profile by the amount of water applied.
+Applied nutrients are readily available for rapid plant uptake.
+Nutrients are applied uniformly over the field.
+Ground water contamination is likely to be less since nitrogen may be applied at any given time. It is often applied when crop uptake and utilization are at their maximum.
+Crop damage during fertilizer application is minimized.
+The disadvantages of fertilizer application through the irrigation system are:
+Uniformity of fertilizer distribution is only as good as the uniformity of water distribution.
+Lower cost fertilizer materials often cannot be used.
+Localized fertilizer placement such as banding cannot be achieved in a sprinkler irrigation system. To a limited extent, it can be achieved with drip irrigation.
+Water source contamination can be significant if the injection system is not properly installed or is poorly maintained.
+Timing of the application
+To achieve high yields, farmers should apply fertilizer N several times during the growing season to ensure that the crop needs for N at critical growth stages are met.  The critical stages depend on the crop; and additional stress that can be caused by biotic and abiotic stresses. Since most crops have several critical stages in which N is crucial, split application could provide additional benefits for the efficiency of nutrient applications. General guidelines on timing are hard to provide, since a wide range of factors influences the N-availability and impact on the plant’s health. Surveying the status of rice plants can be done by using a
+Leaf Colour Chart
+during a field visit. During this quick survey, which has to be done regularly, the demand for water and occurrence of pests can also be checked, to limit the number of field visits. In the case of rice, the young rice plant before the tillering stage grows slowly and does not need much N. Therefore, only a small to moderate amount of fertilizer N is applied to rice within 14 days after transplanting (for transplanted rice) or 21 days after sowing (for direct-seeded rice).  Rice requires more N at the early- and mid-tillering stages to ensure adequate number of panicles; and at panicle initiation stage to increase grain number per panicle.
+Tools and Guidelines
+Integrated Plant Nutrient Management
+What is Integrated Plant Nutrient Management?
+How to practice Integrated Plant Nutrient Management?
+Case studies on Integrated Plant Nutrient Management
+Relevant links for Integrated Plant Nutrient Management
+Contact us
+Terms and Conditions
+Scam Alert
+© FAO, 2026
