@@ -435,9 +435,9 @@ Semantic Search
 AI Chatbot
         +
 Agriculture Knowledge Base
-👨‍💻 Author
 
-Dhanush
+👨‍💻 Author
+Dhanush N
 
 GitHub:
 https://github.com/Dhanush-N24
