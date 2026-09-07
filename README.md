@@ -180,14 +180,18 @@ Agricultural decision support
        └───────────┘  │ Search      │  └───────────┘
                       └─────────────┘
 💻 Technology Stack
+
 Frontend
+
 React
 JavaScript
 Vite
 React Router
 Axios
 CSS
+
 Backend
+
 Python
 FastAPI
 SQLAlchemy
@@ -209,7 +213,10 @@ Users
 Products
 Orders
 Order Items
+
+
 🔄 Application Flow
+
 Customer
 Register
    ↓
@@ -309,6 +316,7 @@ farmer-marketplace/
 │
 ├── .gitignore
 └── README.md
+
 📦 Order & Inventory Management
 
 When a customer places an order:
